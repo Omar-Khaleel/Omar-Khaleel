@@ -22,8 +22,8 @@
 ---
 ###  Tactical Intel (GitHub Stats)
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=bmw15925-hash&show_icons=true&theme=dark&count_private=true" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmw15925-hash&layout=compact&theme=dark" alt="Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=bmw15925-hash&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmw15925-hash&layout=compact&theme=dark&hide_border=true" alt="Langs" />
 </p>
 
 ---
