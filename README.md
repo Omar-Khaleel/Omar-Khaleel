@@ -20,7 +20,7 @@
 
 ## About Me
 
-I am **Omar Khaleel Ibrahim**, a **Computer Science graduate**, **Systems Architect**, **Telecommunications Engineer**, and **Security Researcher** with a multidisciplinary background across software engineering, networking, telecom infrastructure, cybersecurity research, and AI-assisted development.
+I am **Omar Khaleel**, a **Computer Science graduate**, **Systems Architect**, **Telecommunications Engineer**, and **Security Researcher** with a multidisciplinary background across software engineering, networking, telecom infrastructure, cybersecurity research, and AI-assisted development.
 
 My work is driven by one principle:
 
@@ -135,8 +135,6 @@ Contributed a **QR generation and decoding intelligence module** to the OpenClaw
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Omar-Khaleel&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </div>
-
----
 
 ---
 
