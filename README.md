@@ -1,155 +1,102 @@
-# Omar Khaleel | Systems Architect • Telecom Engineer • Security Researcher
-> **Precision engineered. Mission focused. Built for impact.**
+from pathlib import Path
+
+content = r'''<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:0f172a,100:2563eb&text=Omar%20Khaleel&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Systems%20Architect%20•%20Telecom%20Engineer%20•%20Security%20Researcher&descAlignY=58&descSize=18"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=950&lines=Precision+in+disguise.+Power+in+execution.;Cybersecurity+Researcher+%7C+Systems+Builder+%7C+Telecom+Engineer.;I+design+capability%2C+not+just+code.)](https://git.io/typing-svg)
+
+<a href="https://t.me/Tr1xy"><img src="https://img.shields.io/badge/Telegram-@Tr1xy-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Officer-Falcons%20Intelligence%20Cell-111827?style=for-the-badge">
+<img src="https://img.shields.io/badge/11-International%20Certifications-0f172a?style=for-the-badge">
+<img src="https://img.shields.io/badge/Focus-Bug%20Bounty%20%26%20OSINT-black?style=for-the-badge">
+
+</div>
 
 ---
 
-## Executive Profile
-I am **Omar Khaleel Ibrahim**, a **Computer Science graduate**, **systems architect**, and **telecommunications engineer** with a multidisciplinary background spanning **network engineering, cybersecurity research, large-scale infrastructure design, AI-assisted development, and intelligence-oriented software systems**.
+## About Me
 
-My work sits at the intersection of **mission-critical engineering** and **practical execution** — from building advanced software tools and security workflows to designing architectures inspired by real operational demands.
+I am **Omar Khaleel Ibrahim**, a **Computer Science graduate**, **Systems Architect**, **Telecommunications Engineer**, and **Security Researcher**.
 
-I combine a strong foundation in **telecom and networking**, deep interest in **cybersecurity and exploit research**, and hands-on experience in **software engineering, OSINT tooling, and systems automation**.
-
----
-
-## Operational Identity
-- **Officer in the Falcons Intelligence Cell** — focused on tactical system thinking and operational-grade software design.
-- **Telecommunications Engineer** — experience connected to major telecom environments including **Huawei, Zain, and Earthlink**.
-- **Security Researcher** — active in **bug bounty, vulnerability analysis, exploit-oriented thinking, and attack surface review**.
-- **Systems Architect** — designs scalable technical solutions for complex and high-stakes environments.
-- **AI-driven Builder** — uses modern AI workflows to accelerate development, analysis, and technical execution.
-- **Open Source Contributor** — contributor to real-world projects with accepted upstream work.
+My technical identity is built around:
+- **cybersecurity research**
+- **telecommunications & networking**
+- **AI-assisted development**
+- **systems architecture**
+- **OSINT tooling**
+- **automation and mission-oriented software**
 
 ---
 
-## Core Strengths
-- **Telecom & Network Engineering**
-  - 4G / 5G concepts
-  - routing & switching
-  - enterprise network architecture
-  - infrastructure troubleshooting
-  - protocol-level reasoning
+## Operational Profile
 
-- **Cybersecurity & Research**
-  - vulnerability discovery
-  - bug bounty methodology
-  - exploit analysis
-  - OSINT workflows
-  - security review of real-world codebases
-  - attacker mindset with defender discipline
-
-- **Software & Systems Engineering**
-  - Python tooling
-  - systems automation
-  - desktop utilities
-  - backend services
-  - architecture design
-  - intelligence-support platforms
-  - custom technical workflows
-
-- **AI & Applied Intelligence**
-  - AI-assisted engineering
-  - model integration concepts
-  - automation pipelines
-  - technical evaluation
-  - intelligent workflow design
+- Officer in the **Falcons Intelligence Cell**
+- Experience connected to **Huawei, Zain, and Earthlink** environments
+- Holder of **11 international certifications**
+- Research focus in **vulnerability analysis, bug bounty, and exploit review**
+- Contributor to open-source ecosystems with **accepted merged work**
 
 ---
 
-## Certifications & Technical Foundation
-- **11 International Certifications**
-- Certified across areas including:
-  - **HCIA**
-  - **CCNA**
-  - **CCNP**
-  - **AI**
-  - **5G**
-  - **Cloud Computing**
-  - **WLAN**
-  - **Security**
+## Tech Stack
 
-These certifications reflect a broad and disciplined understanding of **communications, networking, cloud-era infrastructure, and modern technical ecosystems**.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,php,cs,go,rust,mysql,mongodb,linux,bash,docker,git,flask" />
+</div>
 
 ---
 
-## Technical Stack
-### Languages
-`Python` `C++` `C` `Java` `JavaScript` `PHP` `C#` `Go` `Rust`
+## Highlighted Contribution
 
-### Databases & Data
-`MySQL` `MongoDB`
+### OpenClaw — QR Intelligence Skill
+Contributed a QR generation and decoding intelligence module to OpenClaw.
 
-### Systems & Infrastructure
-`Linux` `Bash` `Docker` `Git`
-
-### Frameworks & Tools
-`Flask` `Automation Workflows` `OSINT Utilities` `AI-assisted Development`
+**Merged Pull Request:**  
+[OpenClaw PR #8817](https://github.com/openclaw/openclaw/pull/8817)
 
 ---
 
-## Engineering Philosophy
-I build with a simple principle:
+## GitHub Metrics
 
-**Make it useful. Make it strong. Make it scalable.**
-
-I am particularly drawn to systems that require:
-- high precision
-- operational reliability
-- strong architecture
-- security awareness
-- real-world usefulness
-
-My preferred work style is not just to write code, but to **design systems that solve serious problems under real constraints**.
-
----
-
-## Selected Work
-### QR Intelligence Module — OpenClaw
-Developed and contributed a **QR generation and decoding intelligence capability** to the OpenClaw ecosystem, successfully merged upstream.  
-**Pull Request:** [OpenClaw PR #8817](https://github.com/openclaw/openclaw/pull/8817)
-
-### OSINT Aggregation Concepts
-Designed multi-source intelligence collection concepts for consolidating and analyzing publicly available information across platforms.
-
-### 5G / Telecom Optimization Thinking
-Worked on architecture-level concepts and technical thinking related to **network performance, infrastructure efficiency, and telecom-grade reliability**.
-
-### Intelligence-oriented Interfaces
-Designed concepts for real-time monitoring interfaces that support situational awareness, visual aggregation, and operational clarity.
-
-### Security Research & Vulnerability Work
-Actively engaged in vulnerability analysis, bug bounty reporting, and offensive-security-style code review with strong focus on realistic exploitability and report quality.
-
----
-
-## GitHub Presence
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omar-Khaleel&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Khaleel&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omar-Khaleel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Khaleel&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-Khaleel&theme=tokyonight&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Omar-Khaleel&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Omar-Khaleel&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</div>
 
 ---
 
 ## Mission Areas
+
 - Cybersecurity Research
+- Exploit-Oriented Analysis
 - Telecom Infrastructure
 - Systems Architecture
-- OSINT Tooling
+- OSINT Platforms
 - AI-Enhanced Engineering
-- Automation & Analysis
-- Open Source Contribution
-- Operational Software Design
+- Automation & Intelligence Workflows
 
 ---
 
 ## Contact
-- **Telegram:** [@Tr1xy](https://t.me/Tr1xy)
+
+<div align="center">
+  <a href="https://t.me/Tr1xy">
+    <img src="https://img.shields.io/badge/Telegram-Contact%20Now-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
-## Closing Statement
-I do not aim to be just another developer.
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,50:0f172a,100:2563eb"/>
+</div>
+'''
 
-I aim to become a **high-impact technical operator** — someone who can understand complex systems, break them down, secure them, rebuild them, and turn ideas into working capability.
+path = Path('/mnt/data/Omar-Khaleel-README-v2.md')
+path.write_text(content, encoding='utf-8')
 
-**Architecture. Security. Execution.**
+print(f"Saved to {path}")
