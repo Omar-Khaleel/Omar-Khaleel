@@ -1,6 +1,4 @@
-from pathlib import Path
-
-content = r'''<div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:0f172a,100:2563eb&text=Omar%20Khaleel&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Systems%20Architect%20•%20Telecom%20Engineer%20•%20Security%20Researcher&descAlignY=58&descSize=18"/>
 
@@ -94,9 +92,3 @@ Contributed a QR generation and decoding intelligence module to OpenClaw.
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,50:0f172a,100:2563eb"/>
 </div>
-'''
-
-path = Path('/mnt/data/Omar-Khaleel-README-v2.md')
-path.write_text(content, encoding='utf-8')
-
-print(f"Saved to {path}")
