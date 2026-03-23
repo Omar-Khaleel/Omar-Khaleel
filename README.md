@@ -138,14 +138,6 @@ Contributed a **QR generation and decoding intelligence module** to the OpenClaw
 
 ---
 
-## Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/Omar-Khaleel/Omar-Khaleel/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 ---
 
 ## Philosophy
