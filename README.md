@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,50:0f172a,100:2563eb&text=Omar%20Khaleel&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Systems%20Architect%20•%20Telecom%20Engineer%20•%20Security%20Researcher&descAlignY=58&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=27&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=1000&lines=Precision+in+disguise.+Power+in+execution.;Security+Researcher+%7C+Systems+Builder+%7C+Telecom+Engineer.;I+design+capability%2C+not+just+code.;Cybersecurity.+Infrastructure.+Execution.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=27&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=1000&lines=Precision+in+disguise.+Power+in+execution.;Security+Researcher+%7C+Systems+Builder+%7C+Telecom+Engineer.;I+design+capability%2C+not+just+code.;Cybersecurity.+Infrastructure.+Execution.)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Omar-Khaleel&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 <a href="https://t.me/Tr1xy"><img src="https://img.shields.io/badge/Telegram-@Tr1xy-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
